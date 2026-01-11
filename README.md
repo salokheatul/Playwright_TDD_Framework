@@ -1,3 +1,4 @@
+[![Playwright tests](https://github.com/salokheatul/Playwright_TDD_Framework/actions/workflows/playwright.yml/badge.svg)](https://github.com/salokheatul/Playwright_TDD_Framework/actions/workflows/playwright.yml)
 # Playwright_TDD_Framework
 
 Playwright-based test framework for TDD practice.
